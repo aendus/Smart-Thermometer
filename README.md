@@ -13,4 +13,4 @@ During my two weeks at FabLab Bern, I made great progress in 3D modeling, printi
 
 Unfortunately, I didn't have enough time during the two weeks to create a simple integration of the thermometer into Home Assistant, an open-source smart home platform. However, I still plan to do that.
 
-GitHub link
+
